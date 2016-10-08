@@ -1,5 +1,5 @@
 # JSCodingQuestions
-camelCase /n
+# camelCase
 flattern
 22. Generate parentheses
 26. Remove Duplicates from Sorted Array
