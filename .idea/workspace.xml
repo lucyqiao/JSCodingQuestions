@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aab7db-23b1-47c1-8f74-718322cc6ad5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22. Generate Parentheses.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/78. Subsets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/80. Remove Duplicates from Sorted Array II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/90. Subsets II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flattern.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/204 Count Primes.js" afterPath="$PROJECT_DIR$/204. Count Primes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/70 Climbing Stairs.js" afterPath="$PROJECT_DIR$/70. Climbing Stairs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="JSInterviewCoding.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,6 +56,7 @@
         <option value="$PROJECT_DIR$/90. Subsets II.js" />
         <option value="$PROJECT_DIR$/22. Generate Parentheses.js" />
         <option value="$PROJECT_DIR$/flattern.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -73,8 +66,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="28" />
+    <option name="x" value="67" />
+    <option name="y" value="165" />
     <option name="width" value="1287" />
     <option name="height" value="831" />
   </component>
@@ -204,7 +197,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="28" width="1287" height="831" extended-state="1" />
+    <frame x="67" y="165" width="1287" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24941725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -288,6 +281,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.633515">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5465587">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
