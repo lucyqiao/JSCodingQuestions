@@ -1,6 +1,8 @@
 /**
  * Created by LucyQiao on 9/27/16.
  */
+/**Count the number of prime numbers less than a non-negative number, n.*/
+
 var countPrimes = function(n) {
     // corner case:
     if(n <= 2){
