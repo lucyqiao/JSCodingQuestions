@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aab7db-23b1-47c1-8f74-718322cc6ad5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/139. Word Break.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5. Longest Palindromic Substring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7. Reverse Integer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM Tree Traversal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String replacement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carousel.html" afterPath="$PROJECT_DIR$/carousel.html" />
     </list>
     <ignored path="JSInterviewCoding.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,21 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.1111112">
+            <state vertical-scroll-proportion="0.04373178">
               <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/carousel.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,8 +93,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
-    <option name="y" value="33" />
+    <option name="x" value="62" />
+    <option name="y" value="102" />
     <option name="width" value="1440" />
     <option name="height" value="831" />
   </component>
@@ -267,8 +250,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="33" width="1440" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="62" y="102" width="1440" height="831" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24031007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -631,18 +614,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/carousel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1111112">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.7837446">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/carousel.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.04373178">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
