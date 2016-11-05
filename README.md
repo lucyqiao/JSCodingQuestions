@@ -8,12 +8,17 @@
 * Find the node in same place from an identical DOM tree (FB)
 * Find a rectangle of 0s I & II
 * 1. Two Sum
+* 167. Two Sum II
+* 170. Two Sum III
 * 2. Add Two Numbers
+* 445. Add Two Numbers II
 * 3. Longest Substring Without Repeating Characters
 * 5. Longest Palindromic Substring.js
 * 6. ZigZag Conversion
 * 7. Reverse Integer
 * 11. Container With Most Water
+* 15. 3Sum
+* 16. 3Sum Closest
 * 17. Letter Combinations of a Phone Number
 * 22. Generate parentheses
 * 26. Remove Duplicates from Sorted Array
