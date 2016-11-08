@@ -29,13 +29,18 @@
 * 26. Remove Duplicates from Sorted Array
 * 54. Spiral Matrix
 * 59. Spiral Matrix II
+* 62. Unique Paths
+* 63. Unique Paths II
+* 64. Min Paths Sum
 * 66. Plus One
 * 70. Climbing Staris
 * 78. Subsets
+* 79. Word Search
 * 80. Remove Duplicates from Sorted Array
 * 90. Subsets II
 * 136. Single Number
 * 139. Word Break
+* 174. Dungeon Game
 * 186. Reverse Words in a String ||
 * 242. Valid Anagram
 * 204. Count Primes

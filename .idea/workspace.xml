@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aab7db-23b1-47c1-8f74-718322cc6ad5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18. 4Sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/216. Combination SumIII.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/243. Shortest Word Distance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/244. Shortest Word Distance ||.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/245. Shortest Word Distance |||.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/259. 3Sum Smaller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/39.Combination Sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/40.Combination Sum II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/54. Spiral Matrix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/59. Spiral Matrix II.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/174. Dungeon Game.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/62. Unique Paths.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/63. Unique Paths II.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/64. Min Paths Sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/79. Word Search.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -37,28 +32,18 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.11111">
-              <caret line="43" column="33" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="33" />
+            <state vertical-scroll-proportion="-7.2222223">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="245. Shortest Word Distance |||.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/245. Shortest Word Distance |||.js">
+      <file leaf-file-name="174. Dungeon Game.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/174. Dungeon Game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.789916">
-              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="244. Shortest Word Distance ||.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/244. Shortest Word Distance ||.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.9350649">
+              <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -81,11 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/90. Subsets II.js" />
-        <option value="$PROJECT_DIR$/22. Generate Parentheses.js" />
-        <option value="$PROJECT_DIR$/flattern.js" />
-        <option value="$PROJECT_DIR$/278. FirstBadVersion.js" />
-        <option value="$PROJECT_DIR$/MissingNumber.js" />
         <option value="$PROJECT_DIR$/268. MissingNumber.js" />
         <option value="$PROJECT_DIR$/11. Container With Most Water.js" />
         <option value="$PROJECT_DIR$/136. Single Number.js" />
@@ -130,8 +110,13 @@
         <option value="$PROJECT_DIR$/59. Spiral Matrix II.js" />
         <option value="$PROJECT_DIR$/243. Shortest Word Distance.js" />
         <option value="$PROJECT_DIR$/244. Shortest Word Distance ||.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/245. Shortest Word Distance |||.js" />
+        <option value="$PROJECT_DIR$/79. Word Search.js" />
+        <option value="$PROJECT_DIR$/62. Unique Paths.js" />
+        <option value="$PROJECT_DIR$/63. Unique Paths II.js" />
+        <option value="$PROJECT_DIR$/64. Min Paths Sum.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/174. Dungeon Game.js" />
       </list>
     </option>
   </component>
@@ -141,10 +126,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="58" />
+    <option name="x" value="520" />
+    <option name="y" value="81" />
     <option name="width" value="1346" />
-    <option name="height" value="741" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -203,13 +188,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Node.js.245. Shortest Word Distance |||.js">
-    <configuration default="false" name="170. Two Sum III.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="170. Two Sum III.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="259. 3Sum Smaller.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="259. 3Sum Smaller.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.63. Unique Paths II.js">
     <configuration default="false" name="39.Combination Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="39.Combination Sum.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -217,6 +196,12 @@
       <method />
     </configuration>
     <configuration default="false" name="245. Shortest Word Distance |||.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="245. Shortest Word Distance |||.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="79. Word Search.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="79. Word Search.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="63. Unique Paths II.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="63. Unique Paths II.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -268,19 +253,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.170. Two Sum III.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.259. 3Sum Smaller.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.39.Combination Sum.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.216. Combination SumIII.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.245. Shortest Word Distance |||.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.39.Combination Sum.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.216. Combination SumIII.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.245. Shortest Word Distance |||.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.79. Word Search.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.63. Unique Paths II.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.245. Shortest Word Distance |||.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.216. Combination SumIII.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.39.Combination Sum.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.259. 3Sum Smaller.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.170. Two Sum III.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.63. Unique Paths II.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.79. Word Search.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.245. Shortest Word Distance |||.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.216. Combination SumIII.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.39.Combination Sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -298,18 +283,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="58" width="1346" height="741" extended-state="0" />
-    <editor active="false" />
+    <frame x="520" y="81" width="1346" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2573585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21666667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21592443" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40860215" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33873144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -397,47 +382,132 @@
           <line>52</line>
           <option name="timeStamp" value="235" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>29</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>34</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>36</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>37</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>45</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>48</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>50</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>51</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>53</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>55</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>58</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/79. Word Search.js</url>
+          <line>61</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/63. Unique Paths II.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/63. Unique Paths II.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/63. Unique Paths II.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/63. Unique Paths II.js</url>
+          <line>31</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/63. Unique Paths II.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="236" />
+      <option name="time" value="275" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/204. Count Primes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.040871933">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/70. Climbing Stairs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32697546">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/80. Remove Duplicates from Sorted Array II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/78. Subsets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/22. Generate Parentheses.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42915532">
@@ -747,14 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/54. Spiral Matrix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/17. Letter Combinations of a Phone Number.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0634328">
@@ -783,18 +845,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/245. Shortest Word Distance |||.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.11111">
-          <caret line="43" column="33" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.62184876">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/245. Shortest Word Distance |||.js">
+    <entry file="file://$PROJECT_DIR$/54. Spiral Matrix.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.789916">
-          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.71428573">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/79. Word Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46320346">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/62. Unique Paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3181818">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/63. Unique Paths II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9350649">
+          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/64. Min Paths Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9350649">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.2222223">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/174. Dungeon Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9350649">
+          <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
           <folding />
         </state>
       </provider>
